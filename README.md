@@ -1,5 +1,10 @@
 # C Backup & Recovery Utility
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+
 This repository provides a C-based command-line utility to securely backup, track, remove, and recover files and directories. It leverages MD5 hashing to ensure data integrity, prevents redundant backups of unchanged files, and provides an interactive CLI for managing backup versions.
 
 ---
